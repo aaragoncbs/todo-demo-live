@@ -1,5 +1,4 @@
 "use client";
-import {Suspense} from "react";
 import { useState } from "react";
 import AddToDo from "@/components/AddToDo";
 import ToDoList from "@/components/ToDoList";
